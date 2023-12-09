@@ -1,1 +1,2 @@
-# Tutorial
+JS
+check gitignore
